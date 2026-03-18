@@ -4,4 +4,5 @@ Neste Projeto Prático Criamos um Carômetro Digital com Interface Gráfica com 
 Autora : Meriani Garcia
 
 
-<img width="632" height="365" alt="eu captura" src="https://github.com/user-attachments/assets/6ea55656-36fa-4639-938b-a13f4938e38a" />
+
+<img width="631" height="359" alt="Captura de tela eu 2" src="https://github.com/user-attachments/assets/766511a3-34bd-4419-ada8-b1f68a5b0c56" />
